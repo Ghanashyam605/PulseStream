@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Stream",
+  "description": "A vibrant, modern social media platform where users share posts, shorts, and videos, follow creators, view personalized feeds, and generate custom-aspect-ratio posts using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
